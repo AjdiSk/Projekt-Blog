@@ -1,0 +1,17 @@
+#logo {
+  margin-left: 20px;
+}
+#about {
+  text-align: center;
+}
+#shkrimi {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 70px;
+}
+#maps {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,69 @@
+#logo {
+  margin-left: 20px;
+}
+#fotoinsta,
+#fotofb {
+  float: right;
+  margin: 20px;
+}
+#butonat {
+  text-align: center;
+}
+#natyra,
+#kulture,
+#infrastruktura,
+#arsimi,
+#shendeti {
+  width: 120px;
+  height: 60px;
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+}
+#tit {
+  margin: 80px;
+}
+#lajmi {
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+#buton {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar1 {
+  background-color: #007bff;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.navbar1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar1 li {
+  float: left;
+  margin-right: 20px;
+}
+
+.navbar1 a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 20px;
+  display: block;
+}
+
+.navbar1 a:hover {
+  background-color: #0056b3;
+  border-radius: 4px;
+}
+
+#kg {
+  margin-top: 20px;
+}
